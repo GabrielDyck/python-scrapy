@@ -1,3 +1,9 @@
+#Installation Guide
+
+* _python get-pip.py_
+* _pip install crawl_
+
+
 TUTORIAL
 
 ```
